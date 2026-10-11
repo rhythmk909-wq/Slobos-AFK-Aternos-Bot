@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Mustang_bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Mustang-bot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Mustang001.aternos.me",
+    "port": 39286,
     "version": "",
     "try-creative": false
   },
